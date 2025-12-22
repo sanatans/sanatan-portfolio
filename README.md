@@ -23,6 +23,6 @@ AI-powered portfolio website showcasing my work as a Backend Engineer specializi
 - LinkedIn: [linkedin.com/in/sanatan-swain-296040241](https://www.linkedin.com/in/sanatan-swain-296040241/)
 - GitHub: [github.com/sanatans](https://github.com/sanatans)
 
-## 📄 License
+## 📄 License.
 
 © 2025 Sanatan Swain. All rights reserved.
